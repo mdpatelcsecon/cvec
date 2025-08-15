@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-std=c23",
+      "-o",
+      "target/vec.o",
+      "vec.c"
+    ],
+    "directory": "/home/mdp/cvec",
+    "file": "/home/mdp/cvec/vec.c",
+    "output": "/home/mdp/cvec/target/vec.o"
+  }
+]
